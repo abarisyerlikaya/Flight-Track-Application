@@ -19,10 +19,17 @@
 
 ### Screenshots
 ![](https://i.imgur.com/pNp90uo.png)
+
 ![](https://i.imgur.com/DtlHdjc.png)
+
 ![](https://i.imgur.com/CtMebhf.png)
+
 ![](https://i.imgur.com/TFOUfiQ.png)
+
 ![](https://i.imgur.com/YlKfHRA.png)
+
 ![](https://i.imgur.com/BPkqjdq.png)
+
 ![](https://i.imgur.com/cDiVKwT.png)
+
 ![](https://i.imgur.com/EhjCsSE.png)
