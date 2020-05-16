@@ -18,18 +18,20 @@
   * Start, pause, resume and stop the system time.
 
 ### Screenshots
-![](https://i.imgur.com/pNp90uo.png)
+<img src="images/1.png" width = "500"/>
 
-![](https://i.imgur.com/DtlHdjc.png)
+<img src="images/2.png" width = "500"/>
 
-![](https://i.imgur.com/CtMebhf.png)
+<img src="images/3.png" width = "500"/>
 
-![](https://i.imgur.com/TFOUfiQ.png)
+<img src="images/4.png" width = "500"/>
 
-![](https://i.imgur.com/YlKfHRA.png)
+<img src="images/5.png" width = "500"/>
 
-![](https://i.imgur.com/BPkqjdq.png)
+<img src="images/6.png" width = "500"/>
 
-![](https://i.imgur.com/cDiVKwT.png)
+<img src="images/7.png" width = "500"/>
 
-![](https://i.imgur.com/EhjCsSE.png)
+<img src="images/8.png" width = "500"/>
+
+<img src="images/9.png" width = "500"/>
