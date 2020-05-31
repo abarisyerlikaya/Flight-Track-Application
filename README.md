@@ -19,6 +19,8 @@
 
 <b>NOTE:</b> This is my first Java project. So I know that the code is not clear and understandable. Now, I gained experience in Java and I learned how should I code. I am going to notice it in my next projects.
 
+(Created via Eclipse & WindowBuilder)
+
 ### Screenshots
 <img src="images/1.png"/>
 -------------------------------------------------
