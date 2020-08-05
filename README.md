@@ -17,8 +17,6 @@
   * Report the information (scheduled arrival/departure time, take off and landing time, delay, date, flight number, the name of the airlines, the departure and the arrival city), for each taking off and landing into the file (flight_report.txt).
   * Start, pause, resume and stop the system time.
 
-<b>NOTE:</b> This is my first Java project. So I know that the code is not clear and understandable. Now, I gained experience in Java and I learned how should I code. I am going to notice it in my next projects.
-
 (Coded in Eclipse with WindowBuilder)
 
 ### Screenshots
