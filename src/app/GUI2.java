@@ -401,7 +401,7 @@ public class GUI2 extends JFrame {
 					time.stop();
 					// Interrupt the current flights:
 					for (int i = 0; i < started.size(); i++) {
-						if (data2[i][11] == "Took off" || data2[i][11] == "Waiting approval") {
+						if (data2[i][11] == "Took off" || data2[i][11] == "Waiting approval" || data2[i][11] == "Approved") {
 							data2[i][11] = "Interrupted";
 							table_1.repaint();
 						}
